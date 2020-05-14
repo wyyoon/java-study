@@ -1,4 +1,4 @@
-package com.etc;
+package com.wyyoon.tdd.study.calculator;
 
 
 import junit.framework.TestCase;
