@@ -1,4 +1,4 @@
-package com.etc;
+package com.wyyoon.tdd.study.calculator;
 
 public class StringCalculator {
     public String[] split(String s) {
